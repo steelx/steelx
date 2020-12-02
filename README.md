@@ -1,16 +1,21 @@
 ### Hi there 👋
+## Hello! 🦀☕⚡
+I'm Ajinkya, I'm a Sr. Software Developer, passionate about technology. 
++10 years of experience in JavaScript Web Development, building applications for the cloud in the Education and Fintech industry. I code in JavaScript, TypeScript, Dart and Rust.
+Also have Devops experience using AWS and Docker.
+*Bonus:* I'm 2D gamedev enthusiast mostly in Rust programming.
 
-<!--
-**steelx/steelx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Follow me on:
+[![YouTube](https://img.shields.io/badge/YouTube-Ajinkyax-F00?style=for-the-badge&logo=Youtube&logoColor=white)](https://www.youtube.com/c/ajinkyax?sub_confirmation=1) [![Twitter](https://img.shields.io/badge/Twitter-%40ajinkyax-brightgreen?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ajinkyax)
+[![Linkedin](https://img.shields.io/badge/Linkedin-Ajinkya%20Borade-0077b5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ajinkyax/)
 
-Here are some ideas to get you started:
+📫 You can connect to me on discord ['steelx#4050'](https://discord.com/users/steelx#4050)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+<summary>
+    <b>Stats<b>
+</summary>
+<br>
+
+![Ajinkya's github stats](https://github-readme-stats.vercel.app/api?username=steelx&show_icons=true)
+</details>
