@@ -19,3 +19,14 @@ Also have Devops experience using AWS and Docker.
 
 ![Ajinkya's github stats](https://github-readme-stats.vercel.app/api?username=steelx&show_icons=true)
 </details>
+
+
+<details>
+<summary>
+    <b>Support me<b>
+</summary>
+<br>
+
+[![Patreon](https://img.shields.io/badge/opencollective-ajinkyax-f96854?style=for-the-badge&logo=opencollective&logoColor=green)](https://opencollective.com/ajinkyax)
+</details>
+
