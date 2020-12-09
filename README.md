@@ -13,6 +13,22 @@ Also have Devops experience using Google Cloud Run, AWS and Docker
 
 📫 You can connect to me on discord ['steelx#4050'](https://discord.com/users/steelx#4050)
 
+---
+
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+- [RUST + Web Assembly (YEW) quick boilerplate! 🦀](https://youtu.be/DuTCVGB7UtI)
+- [JS: React-Redux shopping cart 08 ](https://www.youtube.com/watch?v=-tO0C9DWg68)
+- [Flutter: Provider pattern vs BLOC with a login form](https://www.youtube.com/watch?v=mmdie4f_abs)
+- [GoLang: Building a 2D jRPG Game in GO](https://www.youtube.com/watch?v=XBQ6jMGGk_Y)
+- [Building a GoLang web crawler](https://www.youtube.com/watch?v=2wmkHFTaXfA)
+<!-- YOUTUBE:END -->
+
+📌 [more videos...](https://youtube.com/ajinkyax)
+
+---
+
 <details>
 <summary>
     <b>Stats<b>
