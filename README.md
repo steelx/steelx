@@ -8,6 +8,7 @@ Also have Devops experience using Google Cloud Run, AWS and Docker
 *Bonus:* I'm 2D gamedev enthusiast mostly in Rust programming.
 
 #### Follow me on:
+[![Dev.to](https://img.shields.io/badge/ajinkyax-dev.to-%23333?style=for-the-badge&logo=appveyor)](https://dev.to/ajinkyax)
 [![YouTube](https://img.shields.io/badge/YouTube-Ajinkyax-F00?style=for-the-badge&logo=Youtube&logoColor=white)](https://www.youtube.com/c/ajinkyax?sub_confirmation=1) [![Twitter](https://img.shields.io/badge/Twitter-%40ajinkyax-brightgreen?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ajinkyax)
 [![Linkedin](https://img.shields.io/badge/Linkedin-Ajinkya%20Borade-0077b5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ajinkyax/)
 
