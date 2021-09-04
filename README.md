@@ -5,7 +5,7 @@ I'm Ajinkya, I'm a Sr. Software Developer, passionate about technology.
 10+ years of experience in JavaScript Web Development, building applications for the cloud in the Service, Education and Fintech industry. I code in JavaScript, TypeScript, Dart and Rust.
 Also have Devops experience using Google Cloud Run, AWS and Docker
 
-*Bonus:* I'm 2D gamedev enthusiast.
+*Bonus:* I'm a GameDev enthusiast.
 
 #### Follow me on:
 [![Dev.to](https://img.shields.io/badge/ajinkyax-dev.to-%23333?style=for-the-badge&logo=appveyor)](https://dev.to/ajinkyax)
@@ -39,13 +39,4 @@ Also have Devops experience using Google Cloud Run, AWS and Docker
 ![Ajinkya's github stats](https://github-readme-stats.vercel.app/api?username=steelx&show_icons=true)
 </details>
 
-
-<details>
-<summary>
-    <b>Support me<b>
-</summary>
-<br>
-
-[![Patreon](https://img.shields.io/badge/opencollective-ajinkyax-f96854?style=for-the-badge&logo=opencollective&logoColor=green)](https://opencollective.com/ajinkyax)
-</details>
 
