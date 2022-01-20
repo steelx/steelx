@@ -2,7 +2,7 @@
 ## Hello! 🦀☕⚡
 I'm Ajinkya, I'm a Sr. Software Developer, passionate about technology. ([Resume!](https://docs.google.com/document/d/1yX3apzE2OtEC7bQcyJEcTvcsPHm4V2Tz2cnLZgOIbCY/edit#heading=h.z6ne0og04bp5))
 
-10+ years of experience in JavaScript Web Development, building applications for the cloud in the Service, Education and Fintech industry. I code in JavaScript, TypeScript, Dart and Rust.
+Years of experience in JavaScript Web Development (and still learning), building applications for the cloud in the Service, Education and Fintech industry. I code in JavaScript, TypeScript, Dart and Rust.
 Also have Devops experience using Google Cloud Run, AWS and Docker
 
 *Bonus:* I'm a GameDev enthusiast.
