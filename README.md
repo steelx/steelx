@@ -1,11 +1,17 @@
 ### Hi there 👋
 ## Hello! 🦀☕⚡
-I'm Ajinkya, I'm a Sr. Software Developer, passionate about technology. ([Resume!](https://docs.google.com/document/d/1yX3apzE2OtEC7bQcyJEcTvcsPHm4V2Tz2cnLZgOIbCY/edit#heading=h.z6ne0og04bp5))
+I'm Ajinkya, I'm a Sr. Software Developer, passionate about technology.
 
-Years of experience in JavaScript Web Development (and still learning), building applications for the cloud in the Service, Education and Fintech industry. I code in JavaScript, TypeScript, Dart and Rust.
-Also have Devops experience using Google Cloud Run, AWS and Docker
-
+Years of experience in JavaScript Web Development (and still learning). I use TypeScript alot.
 *Bonus:* I'm a GameDev enthusiast.
+
+<div class="container" align="center">
+        <img alt="Ajinkya Borade" width="430" src="https://github-readme-streak-stats.herokuapp.com?user=steelx&theme=dark&hide_border=true"/>
+        <img alt="Ajinkya top langs" width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steelx&hide=cpp,c,c++,scss,css,html,php&layout=compact&theme=synthwave&hide_border=true"/>
+        <img alt="Ajinkya stats" src="https://github-readme-stats.vercel.app/api?username=steelx&show_icons=true&locale=en"/>
+</div>
+
+
 
 #### Follow me on:
 [![Linkedin](https://img.shields.io/badge/Linkedin-Ajinkya%20Borade-0077b5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ajinkyax/)
