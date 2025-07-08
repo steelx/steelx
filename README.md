@@ -1,8 +1,8 @@
 ### Hi there 👋
 ## Hello! 🦀☕⚡
-I'm Ajinkya, I'm a Sr. Software Developer, passionate about technology.
+I'm Ajinkya, I'm a Software Developer, passionate about technology.
 
-Years of experience in JavaScript Web Development (and still learning). I use TypeScript alot.
+13+ Years of experience in JavaScript Web Development (and still learning). I use TypeScript alot.
 *Bonus:* I'm a GameDev enthusiast.
 
 <div class="container" align="center">
@@ -32,7 +32,7 @@ Years of experience in JavaScript Web Development (and still learning). I use Ty
 - [Building a GoLang web crawler](https://www.youtube.com/watch?v=2wmkHFTaXfA)
 <!-- YOUTUBE:END -->
 
-📌 [more videos...](https://youtube.com/ajinkyax)
+📌 [more videos...](https://youtube.com/@ajinkyax)
 
 ---
 
