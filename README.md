@@ -1,9 +1,13 @@
 ### Hi there 👋
 ## Hello! 🦀☕⚡
-I'm Ajinkya, I'm a Software Developer, passionate about technology.
+I'm Ajinkya, a Unreal Engine C++ Gameplay Programmer with over 15 years of Software Engineering experience, specializing in [SOLID](https://youtu.be/AU8q0UkCrHw?si=vHEwLd7CLxpymG_Z) design principles within Unreal Engine. 
 
-13+ Years of experience in JavaScript Web Development (and still learning). I use TypeScript alot.
-*Bonus:* I'm a GameDev enthusiast.
+My core technical expertise includes the Gameplay Ability System, Behavior Trees, State Trees AI, and Linked Animation layers. Additionally, I have experience developing 2D games using PaperZD in UE5, as well as working with UMG Widgets and Common UI.
+
+You can find my introductory video here: ---> [CLICK HERE](https://youtu.be/oUfTw_0MY4I) <---
+
+My full portfolio is available at: [www.GridShift.dev](https://gridshift.dev/)
+
 
 <div class="container" align="center">
         <img alt="Ajinkya Borade" width="430" src="https://github-readme-streak-stats.herokuapp.com?user=steelx&theme=dark&hide_border=true"/>
@@ -16,7 +20,7 @@ I'm Ajinkya, I'm a Software Developer, passionate about technology.
 #### Follow me on:
 [![Linkedin](https://img.shields.io/badge/Linkedin-Ajinkya%20Borade-0077b5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ajinkyax/)
 [![Dev.to](https://img.shields.io/badge/ajinkyax-dev.to-%23333?style=for-the-badge&logo=appveyor)](https://dev.to/ajinkyax)
-[![YouTube](https://img.shields.io/badge/YouTube-Ajinkyax-F00?style=for-the-badge&logo=Youtube&logoColor=white)](https://www.youtube.com/c/ajinkyax?sub_confirmation=1) [![Twitter](https://img.shields.io/badge/Twitter-%40ajinkyax-brightgreen?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ajinkyax)
+[![YouTube](https://img.shields.io/badge/YouTube-Ajinkyax-F00?style=for-the-badge&logo=Youtube&logoColor=white)](https://www.youtube.com/c/gridshiftdev?sub_confirmation=1) [![Twitter](https://img.shields.io/badge/Twitter-%40ajinkyax-brightgreen?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/ajinkyax)
 
 📫 You can connect to me on discord ['steelx#4050'](https://discord.com/users/steelx#4050)
 
@@ -25,14 +29,15 @@ I'm Ajinkya, I'm a Software Developer, passionate about technology.
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [GAS Setup](https://youtu.be/x8d7Fp10D7E?si=YrlJ5qVPh7i4LhmK)
+- [State Tree on a Fridge](https://youtu.be/tFDT9kuALKU?si=-pDpis0o1CGoyTa6)
+- [Unreal Engine SOLID Principles](https://youtu.be/AU8q0UkCrHw?si=41NnQQz3tIMIvTGe)
 - [RUST + Web Assembly (YEW) quick boilerplate! 🦀](https://youtu.be/DuTCVGB7UtI)
-- [JS: React-Redux shopping cart 08 ](https://www.youtube.com/watch?v=-tO0C9DWg68)
-- [Flutter: Provider pattern vs BLOC with a login form](https://www.youtube.com/watch?v=mmdie4f_abs)
 - [GoLang: Building a 2D jRPG Game in GO](https://www.youtube.com/watch?v=XBQ6jMGGk_Y)
 - [Building a GoLang web crawler](https://www.youtube.com/watch?v=2wmkHFTaXfA)
 <!-- YOUTUBE:END -->
 
-📌 [more videos...](https://youtube.com/@ajinkyax)
+📌 [more videos...](https://youtube.com/@GridShiftDev)
 
 ---
 
