@@ -1,10 +1,10 @@
 ### Hi there 👋
-## Hello! 🦀☕⚡
+## Unreal Engine C++ Gameplay Developer 🎮☕⚡
 I'm Ajinkya, a Unreal Engine C++ Gameplay Programmer with over 15 years of Software Engineering experience, specializing in [SOLID](https://youtu.be/AU8q0UkCrHw?si=vHEwLd7CLxpymG_Z) design principles within Unreal Engine. 
 
 My core technical expertise includes the Gameplay Ability System, Behavior Trees, State Trees AI, and Linked Animation layers. Additionally, I have experience developing 2D games using PaperZD in UE5, as well as working with UMG Widgets and Common UI.
 
-You can find my introductory video here: ---> [CLICK HERE](https://youtu.be/oUfTw_0MY4I) <---
+You can find my introductory video here: ---> [CLICK HERE ▶• ılıılıılıılıılıılı. 0](https://youtu.be/oUfTw_0MY4I) <---
 
 My full portfolio is available at: [www.GridShift.dev](https://gridshift.dev/)
 
