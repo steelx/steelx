@@ -1,10 +1,15 @@
 ### Hi there 👋
-## Unreal Engine C++ Gameplay Developer 🎮☕⚡
-I'm Ajinkya, a Unreal Engine C++ Gameplay Programmer with over 15 years of Software Engineering experience, specializing in [SOLID](https://youtu.be/AU8q0UkCrHw?si=vHEwLd7CLxpymG_Z) design principles within Unreal Engine. 
+## 15+ years Software Engineering XP | TypeScript Node.js | C (programming) 🎮☕⚡
+I'm Ajinkya, I have 15 years of Software Engineering experience, specializing in SOLID design principles.
 
-My core technical expertise includes the Gameplay Ability System, Behavior Trees, State Trees AI, and Linked Animation layers. Additionally, I have experience developing 2D games using PaperZD in UE5, as well as working with UMG Widgets and Common UI.
+  - Software Development: 15 + years Software Engineering experience
+  - Unreal Engine: 2 years experience Architecting high-performance systems in UE5 with C++, Gameplay Ability System, Behaviour Tree and State Trees for NPC AI.
+  - VR: Building digital twin solutions using C++ and Web Sockets (Nodejs)
+  - Technical Architecture: Focused on SOLID design principles and event-driven logic, programming focused on readability and not just for AI agents. Also use Data Oriented Designs to utilize CPU cache for performance.
+React.js Node.js , Vue.js, C (programming), TypeScript, JavaScript
 
-You can find my introductory video here: ---> [CLICK HERE ▶• ılıılıılıılıılıılı. 0](https://youtu.be/J8MWFGMYGwc) <---
+
+You can find my introductory video here: ---> [CLICK HERE ▶• ılıılıılıılıılıılı. 0](https://youtube.com/@GridShiftDev) <---
 
 My full portfolio is available at: [www.GridShift.dev](https://gridshift.dev/)
 
@@ -29,8 +34,7 @@ My full portfolio is available at: [www.GridShift.dev](https://gridshift.dev/)
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [GAS Setup](https://youtu.be/x8d7Fp10D7E?si=YrlJ5qVPh7i4LhmK)
-- [State Tree on a Fridge](https://youtu.be/tFDT9kuALKU?si=-pDpis0o1CGoyTa6)
+- [Handmade JRPG in C programming](https://www.youtube.com/watch?v=dV30oggjPYs&list=PLWiIuxEJy4_c&index=2)
 - [Unreal Engine SOLID Principles](https://youtu.be/AU8q0UkCrHw?si=41NnQQz3tIMIvTGe)
 - [RUST + Web Assembly (YEW) quick boilerplate! 🦀](https://youtu.be/DuTCVGB7UtI)
 - [GoLang: Building a 2D jRPG Game in GO](https://www.youtube.com/watch?v=XBQ6jMGGk_Y)
