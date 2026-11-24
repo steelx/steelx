@@ -25,7 +25,7 @@ My full portfolio is available at: [www.GridShift.dev](https://gridshift.dev/)
 #### Follow me on:
 [![Linkedin](https://img.shields.io/badge/Linkedin-Ajinkya%20Borade-0077b5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ajinkyax/)
 [![Dev.to](https://img.shields.io/badge/ajinkyax-dev.to-%23333?style=for-the-badge&logo=appveyor)](https://dev.to/ajinkyax)
-[![YouTube](https://img.shields.io/badge/YouTube-Ajinkyax-F00?style=for-the-badge&logo=Youtube&logoColor=white)](https://www.youtube.com/c/gridshiftdev?sub_confirmation=1) [![Twitter](https://img.shields.io/badge/Twitter-%40ajinkyax-brightgreen?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/ajinkyax)
+[![YouTube](https://img.shields.io/badge/YouTube-Ajinkyax-F00?style=for-the-badge&logo=Youtube&logoColor=white)](https://www.youtube.com/@gridshiftdev?sub_confirmation=1) [![Twitter](https://img.shields.io/badge/Twitter-%40ajinkyax-brightgreen?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/ajinkyax)
 
 📫 You can connect to me on discord ['steelx#4050'](https://discord.com/users/steelx#4050)
 
